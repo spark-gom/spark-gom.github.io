@@ -1,8 +1,9 @@
 ---
 layout: post
 title:  "블로그 첫 게시글"
-date:   2022-04-03 03:38:35 +0900
+date:   2022-04-04 04:25:35 +0900
 categories: Python
+published: true
 ---
 첫 게시글은 Python 코드 테스트로 시작
 
