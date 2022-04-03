@@ -1,6 +1,15 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\assets",
+    "\\assets\\font",
+    "\\assets\\js",
+    "\\_includes",
+    "\\_layouts",
+    "\\_posts",
+    "\\_sass",
+    "\\_sass\\ext"
   ],
+  "SelectedNode": "\\_sass\\ext\\_fonts.scss",
   "PreviewInSolutionExplorer": false
 }
