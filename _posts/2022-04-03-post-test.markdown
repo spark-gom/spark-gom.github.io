@@ -1,0 +1,24 @@
+---
+layout: post
+title:  "post"
+date:   2022-04-04 04:25:35 +0900
+categories: Python
+published: true
+---
+post test
+
+
+
+```python
+// test
+ import pandas as pd
+
+ df = pd.DataFrame()
+
+// test
+ print("test")
+```
+
+test [link]
+
+[link]:https://spark-gom.github.io/
