@@ -3,8 +3,8 @@
 Gem::Specification.new do |spec|
   spec.name          = "plainwhite"
   spec.version       = "0.13"
-  spec.authors       = ["Minseop Kim"]
-  spec.email         = ["sparkgom@gmail.com"]
+  spec.authors       = ["Samarjeet"]
+  spec.email         = ["samarsault@gmail.com"]
 
   spec.summary       = "A portfolio style jekyll theme for writers"
   spec.homepage      = "https://thelehhman.com/"
