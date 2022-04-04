@@ -3,10 +3,13 @@
     "",
     "\\assets",
     "\\assets\\css",
+    "\\assets\\font",
+    "\\assets\\js",
     "\\_includes",
     "\\_layouts",
     "\\_posts",
     "\\_sass"
   ],
+  "SelectedNode": "\\_posts\\2022-04-05-post1.md",
   "PreviewInSolutionExplorer": false
 }
