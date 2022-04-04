@@ -2,14 +2,12 @@
   "ExpandedNodes": [
     "",
     "\\assets",
-    "\\assets\\font",
-    "\\assets\\js",
+    "\\assets\\css",
     "\\_includes",
     "\\_layouts",
     "\\_posts",
-    "\\_sass",
-    "\\_sass\\ext"
+    "\\_sass"
   ],
-  "SelectedNode": "\\_sass\\ext\\_fonts.scss",
+  "SelectedNode": "\\_config.yml",
   "PreviewInSolutionExplorer": false
 }
