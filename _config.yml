@@ -2,7 +2,7 @@ title: sparkgom blog
 author: Minseop Kim
 email: sparkgom@gmail.com
 description: 
-  sparkgom blog ÀÔ´Ï´Ù. µ¥ÀÌÅÍ ºĞ¼®°ú °ÔÀÓ °ü·ÃµÈ ±Û, ÀÏ»ó ±ÛÀ» ¿Ã¸³´Ï´Ù.
+  sparkgom blog ì…ë‹ˆë‹¤. ë°ì´í„° ë¶„ì„ê³¼ ê²Œì„ ê´€ë ¨ëœ ê¸€, ì¼ìƒ ê¸€ì„ ì˜¬ë¦½ë‹ˆë‹¤.
 show_excerpts: true # set to true to show excerpts on the homepage
 
 
@@ -58,4 +58,4 @@ remote_theme: samarsault/plainwhite-jekyll
 
 plugins:
   - jekyll-seo-tag
-  - jekyll-feed
+  #- jekyll-feed
