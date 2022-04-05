@@ -4,7 +4,6 @@ email: sparkgom@gmail.com
 description: > # this means to ignore newlines until "show_exerpts:"
   sparkgom blog ¿‘¥œ¥Ÿ.
 show_excerpts: true # set to true to show excerpts on the homepage
-futrue: true
 
 # Minima date format
 # refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
@@ -55,7 +54,8 @@ plainwhite:
 #theme: plainwhite
 remote_theme: samarsault/plainwhite-jekyll
 timezone: Asia/Seoul
+url:    https://spark-gom.github.io
 
 plugins:
   - jekyll-seo-tag
-#  - jekyll-feed
+  - jekyll-feed
