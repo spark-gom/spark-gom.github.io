@@ -1,8 +1,8 @@
 title: sparkgom blog
 author: Minseop Kim
 email: sparkgom@gmail.com
-description: > # this means to ignore newlines until "show_exerpts:"
-  sparkgom blog 입니다.
+description: 
+  sparkgom blog 입니다. 데이터 분석과 게임 관련된 글, 일상 글을 올립니다.
 show_excerpts: true # set to true to show excerpts on the homepage
 url: https://spark-gom.github.io
 
