@@ -4,7 +4,6 @@ email: sparkgom@gmail.com
 description: 
   sparkgom blog 입니다. 데이터 분석과 게임 관련된 글, 일상 글을 올립니다.
 show_excerpts: true # set to true to show excerpts on the homepage
-url: https://spark-gom.github.io
 
 
 # Minima date format
@@ -55,7 +54,6 @@ plainwhite:
 # Build settings
 #theme: plainwhite
 remote_theme: samarsault/plainwhite-jekyll
-timezone: Asia/Seoul
 
 
 plugins:
