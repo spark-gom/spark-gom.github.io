@@ -17,6 +17,9 @@ plainwhite:
   date_format: "%b %-d, %Y"
   
 
+
+
+
   sitemap: true
   analytics_id: "G-TNKEZCVSC4"
   map: true # set to true to generate sitemap.xml content
@@ -28,6 +31,12 @@ plainwhite:
     #- home
     - page
     - post
+  navigation:
+    - title: Diary
+      url: "/Diary"
+    - title: Error
+      url: "/Error"
+
   # generate social links in footer
   social_links:
     github:  spark-gom
