@@ -16,7 +16,7 @@ plainwhite:
   tagline: Data analysis, Game, Diary
   date_format: "%b %-d, %Y"
   
-  
+  analytics_id : G-TNKEZCVSC4
   map: true # set to true to generate sitemap.xml content
   search: true # set to true to enable searchbar
   dark_mode: true # set to true to add dark mode toggle
@@ -65,5 +65,3 @@ plugins:
   #- jekyll-feed
 
 
-provider: google
-analytics_id : G-TNKEZCVSC4
