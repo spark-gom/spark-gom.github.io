@@ -12,8 +12,8 @@ future: true
 sass:
   sass_dir: _sass
 plainwhite:
-  name: Minseop Kim
-  tagline: Data Analyst
+  name: sparkgom 블로그
+  tagline: 데이터 분석과 게임 관련된 글, 일상 글을 올립니다.
   date_format: "%b %-d, %Y"
   sitemap: true # set to true to generate sitemap.xml content
   search: true # set to true to enable searchbar
