@@ -15,7 +15,9 @@ plainwhite:
   name: sparkgom blog
   tagline: Data analysis, Game, Diary
   date_format: "%b %-d, %Y"
-  sitemap: true # set to true to generate sitemap.xml content
+  
+  
+  map: true # set to true to generate sitemap.xml content
   search: true # set to true to enable searchbar
   dark_mode: true # set to true to add dark mode toggle
   portfolio_image: "assets/portfolio.png" # the path from the base directory of the site to the image to display (no / at the start)
@@ -61,3 +63,7 @@ plugins:
   - jekyll-seo-tag
   #- jekyll-sitemap
   #- jekyll-feed
+
+
+provider: google
+analytics_id : G-TNKEZCVSC4
