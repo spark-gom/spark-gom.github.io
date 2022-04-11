@@ -3,7 +3,7 @@ author: Minseop Kim
 email: sparkgom@gmail.com
 description: 
   sparkgom blog 입니다. 데이터 분석과 게임 관련 글, 일상 글을 올립니다.
-show_excerpts: true # set to true to show excerpts on the homepage
+show_excerpts: false # set to true to show excerpts on the homepage
 future: true
 
 
@@ -31,11 +31,11 @@ plainwhite:
     #- home
     - page
     - post
-  navigation:
-    - title: Diary
-      url: "/Diary"
-    - title: Error
-      url: "/Error"
+  #navigation:
+    #- title: Diary
+    #  url: "/diary"
+    #- title: Error
+    #  url: "/error"
 
   # generate social links in footer
   social_links:
