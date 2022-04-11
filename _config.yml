@@ -2,7 +2,7 @@ title: sparkgom blog
 author: Minseop Kim
 email: sparkgom@gmail.com
 description: 
-  sparkgom blog 입니다. 데이터 분석과 게임 관련된 글, 일상 글을 올립니다.
+  sparkgom blog 입니다. 데이터 분석과 게임 관련 글, 일상 글을 올립니다.
 show_excerpts: False # set to true to show excerpts on the homepage
 future: true
 
@@ -13,7 +13,7 @@ sass:
   sass_dir: _sass
 plainwhite:
   name: sparkgom 블로그
-  tagline: 데이터 분석과 게임 관련된 글, 일상 글을 올립니다.
+  tagline: 데이터 분석, 게임, 일상
   date_format: "%b %-d, %Y"
   sitemap: true # set to true to generate sitemap.xml content
   search: true # set to true to enable searchbar
