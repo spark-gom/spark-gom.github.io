@@ -3,7 +3,7 @@ author: Minseop Kim
 email: sparkgom@gmail.com
 description: 
   sparkgom blog 입니다. 데이터 분석과 게임 관련 글, 일상 글을 올립니다.
-show_excerpts: False # set to true to show excerpts on the homepage
+show_excerpts: true # set to true to show excerpts on the homepage
 future: true
 
 
@@ -16,6 +16,8 @@ plainwhite:
   tagline: Data analysis, Game, Diary
   date_format: "%b %-d, %Y"
   
+
+  sitemap: true
   analytics_id: "G-TNKEZCVSC4"
   map: true # set to true to generate sitemap.xml content
   search: true # set to true to enable searchbar
@@ -61,7 +63,6 @@ remote_theme: samarsault/plainwhite-jekyll
 
 plugins:
   - jekyll-seo-tag
-  #- jekyll-sitemap
-  #- jekyll-feed
+
 
 
