@@ -47,11 +47,11 @@ plainwhite:
   # generate social links in footer
   social_links:
     github:  spark-gom
-    #linkedIn: in/sparkgom
+    linkedIn: in/sparkgom
     #twitter: samarsault
     #dribbble: jekyll
     #flickr:   jekyll
-    #instagram: jekyll
+    instagram: spark_gom
     #pinterest: jekyll
     #youtube: jekyll
     #facebook: jekyll
