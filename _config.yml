@@ -46,7 +46,7 @@ plainwhite:
 
   # generate social links in footer
   social_links:
-    github:  spark-gom
+    #github:  spark-gom
     linkedIn: in/sparkgom
     #twitter: samarsault
     #dribbble: jekyll
