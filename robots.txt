@@ -4,4 +4,4 @@ Allow: /
 Sitemap: https://spark-gom.github.io/sitemap.xml
 
 
-#DaumWebMasterTool:1bf8780c629d1757f48455ee9daebcc87fb495de433cc92434ed751177e8feec:xipwrDPJKE+9wPq1YmbZwQ==
+#DaumWebMasterTool:1bf8780c629d1757f48455ee9daebcc87fb495de433cc92434ed751177e8feec:LwmjMgBovkX9h4ZkTeMAng==
